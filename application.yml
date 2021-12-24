@@ -3,7 +3,7 @@ my:
   name: Arun
 
 db:
-  connection:  "{connectionString: 'http://gitrepo1:11___',userName:'foo',password:'pass'}"
+  connection:  "{connectionString: 'http://gitrepo1:23___',userName:'foo',password:'pass'}"
   host: 127.0.0.1
   port: 1200
 
