@@ -1,0 +1,10 @@
+my:
+  greeting: Hello fromn properties
+  name: Arun
+
+db:
+  connection:  "{connectionString: 'http://gitrepo___',userName:'foo',password:'pass'}"
+  host: 127.0.0.1
+  port: 1200
+
+management.endpoints.web.exposure.include: "*"
